@@ -1,12 +1,12 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background: #5472AE;
 }
 
 #header
 {
-	background: #ccc;
+	background: #DFF2FF;
 	padding: 20px;
 }
 
@@ -16,7 +16,7 @@
 {
 	float: left;
 	width: 100%;
-	background: #333;
+	background: #22427C;
 }
 
 #navigation ul
